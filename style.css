@@ -429,9 +429,6 @@ nav ul li a:hover{
   	.footer-left,.footer-right{
   		flex-basis: 100%;
   	}
-	  .footer-row h1{
-	     font-size: 20px;	  
-	  }
   	.footer-img{
   		top: 25%;
   	}
